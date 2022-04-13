@@ -1,0 +1,4 @@
+0 Alegria
+1 Triste
+2 Sorprendida
+3 Neutra
